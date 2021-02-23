@@ -8,9 +8,8 @@ Simply open the site on Heroku to access the application.
 [Heroku](https://nameless-beach-31711.herokuapp.com/).
 If using the code on your local computer you will need to run an npm install in order to download the dependencies and then view on your local server.
 
-## Screenshots
-
-#### Homepage
+## Screenshot
+![Homepage](public\images\app.png)
 
 
 ## Project Status
