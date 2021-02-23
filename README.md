@@ -11,7 +11,7 @@ If using the code on your local computer you will need to run an npm install in 
 ## Screenshots
 
 #### Homepage
-![Homepage](public\images\app.png)
+
 
 ## Project Status
 Application is completed and working.
